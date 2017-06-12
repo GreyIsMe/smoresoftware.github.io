@@ -6,6 +6,8 @@
 
 <b>Invite Uke Lely:</b> At this time, Uke Lely is still at an early stage of development, and is unavailable to the public. Chrono hopes that it will reach a beta release soon.<hr>
 
+<b>Uke Lely GitHub Repository:</b> <a href="https://github.com/SmoreBot/Uke-Lely">Click Here</a><hr>
+
 <b>Developers</b>
 <table style="width:100%">
     <tr>
