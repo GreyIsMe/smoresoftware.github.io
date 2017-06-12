@@ -1,1 +1,1 @@
-[Team Page](/team/README.md)
+[Team Page](/team/README.html)
