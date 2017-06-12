@@ -14,4 +14,6 @@
     <tr>
         <td><a href="qbot.html">QBot</a></td>
     </tr>
+    <tr>
+        <td><a href="webdev.html">SmoreSoftware Web</a></td>
 </table>
