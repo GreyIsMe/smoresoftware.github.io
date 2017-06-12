@@ -16,7 +16,10 @@
 <td>Chronomoly6#8108</td>
 <td>SmoreSoftware Web Designer</td>
 </tr>
-</table>
+</table><hr>
+
+<b>Host:</b> The SmoreSofware website is hosted by GitHub and maintained by TJ.
+
 </div>
 </html>
 
