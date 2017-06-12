@@ -1,4 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <b>The Team</b>
  <table style="width:100%">
   <tr>
