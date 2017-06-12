@@ -1,3 +1,3 @@
-[Team Page](team.md)
+[Team Page](/team.md)
 
-[Current Projects](projects.md)
+[Current Projects](/projects.md)
