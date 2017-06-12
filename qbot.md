@@ -10,6 +10,6 @@
     <tr>
         <td>TJ</td>
         <td>TJDoesCode#6088</td>
-        <td>Assistant QBot Developer</td>
+        <td>QBot Maintainer/Dev</td>
     </tr>
 </table>

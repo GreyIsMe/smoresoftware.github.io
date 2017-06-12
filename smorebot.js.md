@@ -8,6 +8,11 @@
         <td>Head of JS Team</td>
     </tr>
     <tr>
+        <td>TJ</td>
+        <td>TJDoesCode#6088</td>
+        <td>SmoreJS Maintainer/Dev</td>
+    </tr>
+    <tr>
         <td>ROM</td>
         <td>NaM.ROM Typo#9462</td>
         <td>Assistant JS Dev</td>
