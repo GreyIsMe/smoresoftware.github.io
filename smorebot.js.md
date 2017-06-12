@@ -25,6 +25,9 @@
         <td>NaM.ROM Typo#9462</td>
         <td>Assistant JS Dev</td>
     </tr>
-</table>
+</table><hr>
+
+<b>Host:</b> SmoreBot.js is hosted by SpaceX.
+
 </div>
 </html>
