@@ -1,3 +1,4 @@
+<html>
 <h1>SmoreBot</h1>
 
 A Discord Bot that gives attention to Smore Pop Tarts that happens to be programmed in Lua
@@ -18,3 +19,4 @@ A Discord Bot that gives attention to Smore Pop Tarts that happens to be program
     <td>Assistant SmoreBot Dev</td>
   </tr>
 </table>
+</html>
