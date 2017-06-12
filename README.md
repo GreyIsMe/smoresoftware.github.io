@@ -1,3 +1,3 @@
 # smorebot.github.io
 
-<a href="/team/README.md">Team Page</a>
+[Team Page](/team/README.md)
