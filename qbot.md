@@ -20,6 +20,9 @@
         <td>TJDoesCode#6088</td>
         <td>QBot Maintainer/Dev</td>
     </tr>
-</table>
+</table><hr>
+
+<b>Host:</b> QBot is hosted by SpaceX.
+
 </div>
 </html>
