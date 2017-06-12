@@ -20,6 +20,9 @@
     <td>jdenderplays#2316</td>
     <td>Assistant SmoreBot Dev</td>
   </tr>
-</table>
+</table><hr>
+
+<b>Host:</b> SmoreBot is hosted by ROM Typo.
+
 </div>
 </html>
