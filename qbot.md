@@ -6,6 +6,8 @@
 
 <b>Invite QBot:</b> <a href ="https://discordapp.com/oauth2/authorize?client_id=322882931746013185&scope=bot&permissions=2146958463">Click Here</a><hr>
 
+<b>QBot GitHub Repository:</b> <a href="https://github.com/SmoreBot/QBot">Click Here</a><hr>
+
 <b>Developers</b>
 <table style="width:100%">
     <tr>
