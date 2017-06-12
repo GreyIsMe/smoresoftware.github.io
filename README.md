@@ -1,3 +1,3 @@
-[Team Page](/team/README.md)
+[Team Page](team.md)
 
-[Current Projects](/bots/readme.md)
+[Current Projects](projects.md)
