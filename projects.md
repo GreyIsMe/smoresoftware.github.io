@@ -3,15 +3,15 @@
 <b>Bots</b>
 <table style="width:100%">
     <tr>
-        [SmoreBot](bots/smorebot.md)
+        <a>[SmoreBot](bots/smorebot.md)</a>
     </tr>
     <tr>
-        [SmoreBot.js](bots/smorebot.js.md)
+        <a>[SmoreBot.js](bots/smorebot.js.md)</a>
     </tr>
     <tr>
-        [Uke-Lely](bots/uke-lely.md)
+        <a>[Uke-Lely](bots/uke-lely.md)</a>
     </tr>
     <tr>
-        [QBot](bots/qbot.md)
+        <a>[QBot](bots/qbot.md)</a>
     </tr>
 </table>
