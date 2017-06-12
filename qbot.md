@@ -1,5 +1,5 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-#QBot
+<b>QBot</b>
 
 <b>Developers</b>
 <table style="width:100%">

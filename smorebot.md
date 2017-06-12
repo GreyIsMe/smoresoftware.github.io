@@ -1,5 +1,5 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-#SmoreBot
+<b>SmoreBot</b>
 
 <b>Developers</b>
 <table style="width:100%">
@@ -11,6 +11,6 @@
     <tr>
     <td>Jdender</td>
     <td>jdenderplays#2316</td>
-    <td>Assistant Lua Dev</td>
+    <td>Assistant SmoreBot Dev</td>
   </tr>
 </table>
