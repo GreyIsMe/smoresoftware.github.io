@@ -27,7 +27,7 @@
     </tr>
 </table><hr>
 
-<b>Host:</b> SmoreBot.js is hosted by SpaceX.
+<b>Host:</b> SmoreBot.js is hosted by Space.
 
 </div>
 </html>
