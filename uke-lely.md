@@ -4,7 +4,7 @@
 
 <h2>A ukelele themed discord bot</h2><hr>
 
-<b>Invite Uke Lely:</b> At this time, Uke Lely is still at an early stage of development, and is unavailable to the public. Chrono hopes that it will reach a beta release soon.
+<b>Invite Uke Lely:</b> At this time, Uke Lely is still at an early stage of development, and is unavailable to the public. Chrono hopes that it will reach a beta release soon.<hr>
 
 <b>Developers</b>
 <table style="width:100%">
