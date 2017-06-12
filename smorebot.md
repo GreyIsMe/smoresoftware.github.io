@@ -1,8 +1,9 @@
-<b>SmoreBot</b>
+<h1>SmoreBot</h1>
 
 A Discord Bot that gives attention to Smore Pop Tarts that happens to be programmed in Lua
 
-<b>Invite SmoreBot:</b> [Invite SmoreBot](https://discordapp.com/oauth2/authorize?client_id=290228059599142913&scope=bot&permissions=2146958463)
+<h2>Invite SmoreBot:</h2> 
+[Invite SmoreBot](https://discordapp.com/oauth2/authorize?client_id=290228059599142913&scope=bot&permissions=2146958463)
 
 <b>Developers</b>
 <table style="width:100%">
