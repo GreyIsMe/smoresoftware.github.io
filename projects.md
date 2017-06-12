@@ -3,15 +3,15 @@
 <b>Bots</b>
 <table style="width:100%">
     <tr>
-        <a href="smorebot.md">SmoreBot</a>
+        <td><a href="smorebot.md">SmoreBot</a></td>
     </tr>
     <tr>
-        <a href="smorebot.js.md">SmoreBot.js</a>
+        <td><a href="smorebot.js.md">SmoreBot.js</a></td>
     </tr>
     <tr>
-        <a href="uke-lely.md">Uke-Lely</a>
+        <td><a href="uke-lely.md">Uke-Lely</a></td>
     </tr>
     <tr>
-        <a href="qbot.md">QBot</a>
+        <td><a href="qbot.md">QBot</a></td>
     </tr>
 </table>
