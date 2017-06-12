@@ -1,17 +1,17 @@
-#Current Bots/Projects
+<b>Current Bots/Projects</b>
 
 <b>Bots</b>
 <table style="width:100%">
     <tr>
-        <a>[SmoreBot](bots/smorebot.md)</a>
+        <a href="smorebot.md">SmoreBot</a>
     </tr>
     <tr>
-        <a>[SmoreBot.js](bots/smorebot.js.md)</a>
+        <a href="smorebot.js.md">SmoreBot.js</a>
     </tr>
     <tr>
-        <a>[Uke-Lely](bots/uke-lely.md)</a>
+        <a href="uke-lely.md">Uke-Lely</a>
     </tr>
     <tr>
-        <a>[QBot](bots/qbot.md)</a>
+        <a href="qbot.md">QBot</a>
     </tr>
 </table>
