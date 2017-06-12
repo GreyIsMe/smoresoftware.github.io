@@ -2,7 +2,7 @@
 
 <h2>SmoreBot.js is the JavaScript bot written in Discord.js and Node.js it is designed to have music and server prefixes with custom settings per guild!</h2>
 
-<b>Invite SmoreBot.js:</b> [Invite SmoreBot.js](https://discordapp.com/oauth2/authorize?client_id=319196383699795978&scope=bot&permissions=2146958463)
+<b>Invite SmoreBot.js:</b> <a href="https://discordapp.com/oauth2/authorize?client_id=319196383699795978&scope=bot&permissions=2146958463">Invite SmoreBot.js</a><hr>
 
 <b>Developers</b>
 <table style="width:100%">
