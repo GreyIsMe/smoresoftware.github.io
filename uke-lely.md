@@ -15,6 +15,9 @@
         <td>Chronomly6#8108</td>
         <td>Head Uke Lely Developer</td>
     </tr>
-</table>
+</table><hr>
+
+<b>Host:</b> Uke Lely is not currently hosted permanently.
+
 </div>
 </html>
