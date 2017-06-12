@@ -3,8 +3,7 @@
 
 A Bot who's main purpose is quoting user's messages!
 
-<h2>Invite QBot:</h2> 
-[Invite QBot](https://discordapp.com/oauth2/authorize?client_id=322882931746013185&scope=bot&permissions=2146958463)
+<b>Invite QBot:</b> [Invite QBot](https://discordapp.com/oauth2/authorize?client_id=322882931746013185&scope=bot&permissions=2146958463)
 
 
 <b>Developers</b>
