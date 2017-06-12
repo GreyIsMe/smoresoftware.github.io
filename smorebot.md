@@ -1,7 +1,8 @@
 <html>
+<div align="center">
 <h1>SmoreBot</h1>
 
-<h2>A Discord Bot that gives attention to Smore Pop Tarts that happens to be programmed in Lua</h2>
+<h2>A Discord Bot that gives attention to Smore Pop Tarts that happens to be programmed in Lua</h2><hr>
 
 <b>Invite SmoreBot:</b> <a href="https://discordapp.com/oauth2/authorize?client_id=290228059599142913&scope=bot&permissions=2146958463">Click Here</a><hr>
 
@@ -18,4 +19,5 @@
     <td>Assistant SmoreBot Dev</td>
   </tr>
 </table>
+</div>
 </html>
