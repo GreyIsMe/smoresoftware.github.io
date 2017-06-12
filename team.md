@@ -8,7 +8,7 @@
   <tr>
       <td>Chrono</td>
       <td>Chronomly6#8108</td>
-      <td>Head QBot/SmoreBot Developer and the Head of SmoreSoftware!</td>
+      <td>Head QBot/SmoreBot Developer/the Head of SmoreSoftware!</td>
   </tr>
   <tr>
       <td>TJ</td>
