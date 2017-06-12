@@ -22,7 +22,7 @@
     </tr>
 </table><hr>
 
-<b>Host:</b> QBot is hosted by SpaceX.
+<b>Host:</b> QBot is hosted by Space.
 
 </div>
 </html>
