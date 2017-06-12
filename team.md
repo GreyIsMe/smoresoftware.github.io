@@ -15,7 +15,7 @@
   <tr>
       <td>TJ</td>
       <td>TJDoesCode#6088</td>
-      <td>SmoreJS, QBot</td>
+      <td>SmoreJS, QBot, Web</td>
       <td>SmoreSoftware Maintainer</td>
   </tr>
   <tr>
@@ -28,12 +28,12 @@
     <td>Space</td>
     <td>SpaceX#0276</td>
     <td>SmoreJS, Host</td>
-    <td>Head of JS Team</td>
+    <td>Head of JS Team, Assistant Host</td>
   </tr>
   <tr>
     <td>ROM</td>
     <td>NaM.ROM Typo#9462</td>
     <td>SmoreJS, Host</td>
-    <td>Assistant JS Dev</td>
+    <td>Assistant JS Dev, Head Host</td>
   </tr>
 </table> 
