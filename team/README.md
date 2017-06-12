@@ -6,13 +6,14 @@
     <th>Job</th>
   </tr>
   <tr>
-    <td>Chrono</td>
-    <td>Chronomly6#8108</td>
-    <td>Head QBot/SmoreBot Developer and the Head of SmoreSoftware!</td>
+      <td>Chrono</td>
+      <td>Chronomly6#8108</td>
+      <td>Head QBot/SmoreBot Developer and the Head of SmoreSoftware!</td>
   </tr>
-    <td>TJ</td>
-    <td>TJDoesCode#6088</td>
-    <td>Assistant QBot Developer</td>
+  <tr>
+      <td>TJ</td>
+      <td>TJDoesCode#6088</td>
+      <td>Assistant QBot Developer</td>
   </tr>
   <tr>
     <td>Jdender</td>
