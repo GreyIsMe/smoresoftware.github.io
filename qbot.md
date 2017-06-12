@@ -1,5 +1,5 @@
 <html>
-<b>QBot</b>
+<h1>QBot</h1>
 
 A Bot who's main purpose is quoting user's messages!
 
