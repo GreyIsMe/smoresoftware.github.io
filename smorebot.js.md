@@ -6,6 +6,8 @@
 
 <b>Invite SmoreBot.js:</b> SmoreBot.js is currently in the process of being migrated to a new framework. The JS team is working as fast as they can to get it migrated and get some new features added before it is ready for a beta release. Stay tuned for updates.<hr>
 
+<b>SmoreBot.js GitHub Repository:</b> <a href="https://github.com/SmoreBot/SmoreJS">Click Here</a><hr>
+
 <b>Developers</b>
 <table style="width:100%">
     <tr>
