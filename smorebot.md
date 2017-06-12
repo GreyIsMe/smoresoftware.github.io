@@ -6,6 +6,8 @@
 
 <b>Invite SmoreBot:</b> <a href="https://discordapp.com/oauth2/authorize?client_id=290228059599142913&scope=bot&permissions=2146958463">Click Here</a><hr>
 
+<b>SmoreBot GitHub Repository:</b> <a href="https://github.com/SmoreBot/SmoreBot">Click Here</a><hr>
+
 <b>Developers</b>
 <table style="width:100%">
     <tr>
