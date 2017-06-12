@@ -1,7 +1,7 @@
 <html>
 <h1>QBot</h1>
 
-A Bot who's main purpose is quoting user's messages!
+<h2>A Bot who's main purpose is quoting user's messages!</h2>
 
 <b>Invite QBot:</b> [Invite QBot](https://discordapp.com/oauth2/authorize?client_id=322882931746013185&scope=bot&permissions=2146958463)
 
