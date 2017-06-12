@@ -1,3 +1,3 @@
-#About the founder
+`#About the founder
 ##Chronomoly6
 ###"Chrono"
