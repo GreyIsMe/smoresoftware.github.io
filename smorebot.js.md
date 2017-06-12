@@ -1,6 +1,8 @@
+<html>
+<div align="center">
 <h1>SmoreBot.js</h1>
 
-<h2>SmoreBot.js is the JavaScript bot written in Discord.js and Node.js it is designed to have music and server prefixes with custom settings per guild!</h2>
+<h2>SmoreBot.js is the JavaScript bot written in Discord.js and Node.js it is designed to have music and server prefixes with custom settings per guild!</h2><hr>
 
 <b>Invite SmoreBot.js:</b> <a href="https://discordapp.com/oauth2/authorize?client_id=319196383699795978&scope=bot&permissions=2146958463">Click Here</a><hr>
 
@@ -22,3 +24,5 @@
         <td>Assistant JS Dev</td>
     </tr>
 </table>
+</div>
+</html>
