@@ -1,6 +1,8 @@
-<b>Current Bots/Projects</b>
+<html>
+<div align="center">
+<h1>Current Bots/Projects</h1>
 
-<b>Bots</b>
+<h2>Bots</h2>
 <table style="width:100%">
     <tr>
         <td><a href="smorebot.html">SmoreBot</a></td>
@@ -17,3 +19,5 @@
     <tr>
         <td><a href="webdev.html">SmoreSoftware Web</a></td>
 </table>
+</div>
+</html>
