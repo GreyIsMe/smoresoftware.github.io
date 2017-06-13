@@ -1,0 +1,7 @@
+#home {
+  background-image: url("smoreslogo.jpeg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  margin-right: 200px;
+}
