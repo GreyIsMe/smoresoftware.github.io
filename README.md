@@ -5,3 +5,5 @@ SmoreSoftware is a development group familar with JS and Lua that makes Discord 
 [Current Projects](/projects.md)
 
 [About the founder](/founder.md)
+
+[Contact the Developers](/contact.md)
