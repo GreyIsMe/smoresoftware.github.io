@@ -2,11 +2,11 @@
 <div align="center">
 <h1>SmoreBot</h1>
 
-<h2>A Discord Bot that gives attention to Smore Pop Tarts that happens to be programmed in Lua</h2><br>
+<h2>A Discord Bot that gives attention to Smore Pop Tarts that happens to be programmed in Lua</h2><br><br>
 
-<b>Invite SmoreBot:</b> <a href="https://discordapp.com/oauth2/authorize?client_id=290228059599142913&scope=bot&permissions=2146958463">Click Here</a><br>
+<b>Invite SmoreBot:</b> <a href="https://discordapp.com/oauth2/authorize?client_id=290228059599142913&scope=bot&permissions=2146958463">Click Here</a><br><br>
 
-<b>SmoreBot GitHub Repository:</b> <a href="https://github.com/SmoreBot/SmoreBot">Click Here</a><br>
+<b>SmoreBot GitHub Repository:</b> <a href="https://github.com/SmoreBot/SmoreBot">Click Here</a><br><br>
 
 <b>Developers</b>
 <table style="width:100%">
@@ -20,7 +20,7 @@
     <td>jdenderplays#2316</td>
     <td>Assistant SmoreBot Dev</td>
   </tr>
-</table><br>
+</table><br><br>
 
 <b>Host:</b> SmoreBot is hosted by ROM Typo.
 

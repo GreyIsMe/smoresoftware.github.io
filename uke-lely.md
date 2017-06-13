@@ -2,11 +2,11 @@
 <div align="center">
 <h1>Uke Lely</h1>
 
-<h2>A ukelele themed discord bot</h2><br>
+<h2>A ukelele themed discord bot</h2><br><br>
 
-<b>Invite Uke Lely:</b> At this time, Uke Lely is still at an early stage of development, and is unavailable to the public. Chrono hopes that it will reach a beta release soon.<br>
+<b>Invite Uke Lely:</b> At this time, Uke Lely is still at an early stage of development, and is unavailable to the public. Chrono hopes that it will reach a beta release soon.<br><br>
 
-<b>Uke Lely GitHub Repository:</b> <a href="https://github.com/SmoreBot/Uke-Lely">Click Here</a><br>
+<b>Uke Lely GitHub Repository:</b> <a href="https://github.com/SmoreBot/Uke-Lely">Click Here</a><br><br>
 
 <b>Developers</b>
 <table style="width:100%">
@@ -15,7 +15,7 @@
         <td>Chronomly6#8108</td>
         <td>Head Uke Lely Developer</td>
     </tr>
-</table><br>
+</table><br><br>
 
 <b>Host:</b> Uke Lely is not currently hosted permanently.
 
