@@ -1,9 +1,3 @@
-<html>
-<div align="center">
-<head>
-<title>SmoreSoftware Official</title>
-</head>
-
 SmoreSoftware is a development group familar with JS and Lua that makes Discord Bots!
 
 [Team Page](/team.md)
@@ -13,6 +7,3 @@ SmoreSoftware is a development group familar with JS and Lua that makes Discord 
 [About the founder](/founder.md)
 
 [Contact the Developers](/contact.md)
-
-</div>
-</html>
