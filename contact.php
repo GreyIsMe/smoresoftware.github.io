@@ -10,7 +10,7 @@
 
   $name = $_POST['username'];
   $userEmail = $_POST['emailaddress'];
-  $message = $_POST['message'];
+  $message = htmlspecialchars($_POST['message']);
 
   $to = 'smorebtofficail@gmail.com';
 
