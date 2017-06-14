@@ -9,6 +9,48 @@
     <h2>Contact the Developers</h2><br/><br/>
     <table border="0">
       <form action="contact.php" method="post">
+        <script type="text/javascript">
+          function ValidateForm(frm) {
+            if (frm.username.value == "") {
+              alert('Name is required.');
+              frm.username.focus();
+              return false;
+            }
+            if (frm.emailaddress.value == "") {
+              alert('Email address is required.');
+              frm.emailaddress.focus();
+              return false;
+            }
+            if (frm.emailaddress.value.indexOf("@") < 1 || frm.emailaddress.value.indexOf(".") < 1) {
+              alert('Please enter a valid email address.');
+              frm.emailaddress.focus();
+              return false;
+            }
+            if (frm.message.value == "") {
+              alert('Please enter a message to send to the developers.');
+              frm.message.focus();
+              return false;
+            }
+            if (frm.skip_CaptchaCode.value == "") {
+              alert('Enter web form code.');
+              frm.skip_CaptchaCode.focus();
+              return false;
+            }
+            return true;
+          }
+
+          function ReloadCaptchaImage(captchaImageId) {
+            var obj = document.getElementById(captchaImageId);
+            var src = obj.src;
+            var date = new Date();
+            var pos = src.indexOf('&rad=');
+            if (pos >= 0) {
+              src = src.substr(0, pos);
+            }
+            obj.src = src + '&rad=' + date.getTime();
+            return false;
+          }
+        </script>
         <tr>
           <td>Name</td>
           <td align="center"><input type="text" name="username" size="50" /></td>
@@ -19,11 +61,23 @@
         </tr>
         <tr>
           <td>Message</td>
-          <td align="center"><textarea id="message" rows="6" cols="50"></textarea></td>
+          <td align="center"><textarea name="message" id="message" rows="6" cols="50"></textarea></td>
         </tr>
-        <tr>
-          <td colspan="2" align="center"><input type="submit" value="Submit" /></td>
-        </tr>
+    </table>
+    <table>
+      <tr valign="top">
+        <td> <i>Enter web form code*:</i>
+          <input name="skip_CaptchaCode" type="text" style="width:80px;" maxlength="6" />
+        </td>
+        <td>
+          <a href="http://www.snaphost.com/captcha/ReadyForms/ContactUsForm.aspx"><img id="CaptchaImage" alt="Contact Us form" title="HTML code for Contact Us form"
+style="margin-left:20px;"
+src="http://www.SnapHost.com/captcha/CaptchaImage.aspx?id=98RBYCJNYUFW&ImgType=2" /></a><br />
+          <a href="#" onclick="return ReloadCaptchaImage('CaptchaImage');"><span style="font-size:12px;">reload image</span></a> </td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center"><input type="submit" value="Submit" /></td>
+      </tr>
       </form>
     </table>
   </div>
