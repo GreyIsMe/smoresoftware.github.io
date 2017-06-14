@@ -8,10 +8,24 @@
 
   <?php
 
-  $to = 'smorebtofficail@gmail.com'
+  $name = $_POST['username'];
+  $userEmail = $_POST['emailaddress'];
+  $message = $_POST['message'];
 
-  echo "Your email has been sent. The developers will contact you as soon as they can."
+  $to = 'smorebtofficail@gmail.com';
 
+  $subject = "Contact from" . $name;
+
+  $message = $message;
+
+  $headers = "From: " . $name . " <" . $userEmail . ">\r\n";
+  $headers .= "Reply-To: " . $userEmail . "\r\n";
+  $headers .= "Content-type: text\html\r\n";
+
+  mail($to, $subject, $message, $headers);
+
+  echo "<p>Your email has been sent. The developers will contact you with a reply as soon as they can.</></br></br>";
+  echo "<p>PLEASE NOTE: If you have used this feauture for spamming, you WILL face consequenses!</>";
 
    ?>
 
