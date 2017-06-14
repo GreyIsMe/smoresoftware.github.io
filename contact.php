@@ -8,6 +8,13 @@
 
   <?php
 
+  /* this is currently broken for one reason or another.
+  the error this page is throwing is a "405 NOT ALLOWED" error.
+  that error usually traces to something wrong with the ISP
+  or the page setup.
+  a fix is on the way.
+  */
+
   //get user input from contact.html form
   $rawName = $_POST['username'];
   $rawUserEmail = $_POST['emailaddress'];
@@ -20,7 +27,7 @@
 
   //sanitize email address to see if is valid
   if (!filter_var($testUserEmail, FILTER_VALIDATE_EMAIL) === false) {
-    $to = 'smorebtofficail@gmail.com', 'trevr03@gmail.com';
+    $to = 'smorebtofficail@gmail.com';
 
     $subject = "Contact from" . $name;
 
