@@ -8,24 +8,37 @@
 
   <?php
 
-  $name = $_POST['username'];
-  $userEmail = $_POST['emailaddress'];
-  $message = htmlspecialchars($_POST['message']);
+  //get user input from contact.html form
+  $rawName = $_POST['username'];
+  $rawUserEmail = $_POST['emailaddress'];
+  $rawUserMessage = htmlspecialchars($_POST['message']);
 
-  $to = 'smorebtofficail@gmail.com';
+  //sanitize user input
+  $name = filter_var($rawName, FILTER_SANITIZE_STRING);
+  $testUserEmail = filter_var($rawUserEmail, FILTER_SANITIZE_STRING);
+  $userMessage = filter_var($rawUserMessage, FILTER_SANITIZE_STRING);
 
-  $subject = "Contact from" . $name;
+  //sanitize email address to see if is valid
+  if (!filter_var($testUserEmail, FILTER_VALIDATE_EMAIL) === false) {
+    $to = 'smorebtofficail@gmail.com', 'trevr03@gmail.com';
 
-  $message = $message;
+    $subject = "Contact from" . $name;
 
-  $headers = "From: " . $name . " <" . $userEmail . ">\r\n";
-  $headers .= "Reply-To: " . $userEmail . "\r\n";
-  $headers .= "Content-type: text\html\r\n";
+    $message = $userMessage;
 
-  mail($to, $subject, $message, $headers);
+    //headers
+    $headers = "From: " . $name . " <" . $userEmail . ">\r\n";
+    $headers .= "Reply-To: " . $userEmail . "\r\n";
+    $headers .= "Content-type: text\html\r\n";
 
-  echo "<p>Your email has been sent. The developers will contact you with a reply as soon as they can.</></br></br>";
-  echo "<p>PLEASE NOTE: If you have used this feauture for spamming, you WILL face consequenses!</>";
+    //send mail
+    mail($to, $subject, $message, $headers);
+
+    echo ("<p>Your email has been sent. The developers will contact you with a reply as soon as they can.</p><br/><br/>");
+    echo ("<p>PLEASE NOTE: If you have used this feauture for spamming, you WILL face consequenses!</p>");
+  } else {
+    echo("<p>$email is not a valid email address!</p><br/><br/>");
+  }
 
    ?>
 
