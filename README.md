@@ -1,4 +1,5 @@
 <html>
+<div align="center">
 <h1>smorebot.github.io</h1>
 
 This is the official webpage for SmoreSoftware.
@@ -16,4 +17,5 @@ This is the official webpage for SmoreSoftware.
 <td>SmoreSoftware Web Designer</td>
 </tr>
 </table><br><br>
+</div>
 </html>
