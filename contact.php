@@ -1,17 +1,20 @@
 <html>
 
 <head>
-  <title>Recorded.</title>
+  <title>Sent</title>
 </head>
 
 <body>
 
   <?php
 
-  echo "test"
+  $to = 'smorebtofficail@gmail.com'
+
+  echo "Your email has been sent. The developers will contact you as soon as they can."
 
 
    ?>
+
 </body>
 
 </html>
