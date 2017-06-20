@@ -12,6 +12,11 @@ This is the official webpage for SmoreSoftware.
 <td>SmoreSoftware Web Developer/Administrator</td>
 </tr>
 <tr>
+<td>ROM</td>
+<td>ROM Typo#9462</td>
+<td>SmoreSoftware Web Host</td>
+</tr>
+<tr>
 <td>Chrono</td>
 <td>Chronomoly6#8108</td>
 <td>SmoreSoftware Web Designer</td>
