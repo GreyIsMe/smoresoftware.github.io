@@ -3,5 +3,26 @@
   background-repeat: no-repeat;
   background-position: right top;
   background-attachment: fixed;
-  margin-right: 375px;
+  margin-right: 275px;
+}
+
+#widget {
+    position: absolute;
+    right: 575px;
+}
+
+th, td {
+    text-align: center;
+}
+
+table.nicetable, th.nicetable, td.nicetable {
+   border: 1px solid black;
+}
+
+.homeButton {
+    background:url("smoreslogo.jpg") no-repeat;
+    width: 250px;
+    height: 180px;
+    cursor:pointer;
+    border: none;
 }

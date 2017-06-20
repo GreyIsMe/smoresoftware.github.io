@@ -2,9 +2,15 @@
 
 <head>
   <title>Sent</title>
+  <link rel="stylesheet" type="text/css" href="styles/style1.css">
 </head>
 
 <body>
+  <div align="center">
+     <form method="get" action="/">
+        <input type="submit" class="homeButton" value="">
+    </form>
+  </div>
 
   <?php
 
