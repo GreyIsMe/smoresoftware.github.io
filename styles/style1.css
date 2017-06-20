@@ -6,6 +6,15 @@
   margin-right: 275px;
 }
 
+#repoButton {
+    position: absolute;
+    right: 0;
+    width: 250px;
+    height: 180px;
+    cursor: pointer;
+    border: none;
+}
+
 #widget {
     position: absolute;
     right: 575px;
@@ -25,4 +34,8 @@ table.nicetable, th.nicetable, td.nicetable {
     height: 180px;
     cursor:pointer;
     border: none;
+}
+
+.head {
+    background-color: lightblue;
 }
