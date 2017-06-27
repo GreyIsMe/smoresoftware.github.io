@@ -21,6 +21,6 @@ This is the official webpage for SmoreSoftware.
 <td>Chronomoly6#8108</td>
 <td>SmoreSoftware Web Designer</td>
 </tr>
-</table><br><br>
+</table><br/><br/>
 </div>
 </html>
